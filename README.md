@@ -1,5 +1,9 @@
 # ticket-lifecycle
 
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
 # osTicket - Ticket Lifecycle: Intake Through Resolution
 
 This guide provides a simplified overview of the ticket lifecycle in osTicket, from intake to resolution.
